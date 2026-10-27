@@ -1,0 +1,6 @@
+{
+  "name": "DebtBook - Small Business Debt & Repayment Ledger",
+  "description": "Authoritative debt and repayment tracking system for small businesses, featuring customer balance tracking, idempotent payment processing, WhatsApp reminders, and real-time financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
